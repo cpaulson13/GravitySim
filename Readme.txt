@@ -1,7 +1,7 @@
 Gravity Simulation
   Copyright Catherine Paulson 2018
 
-This simulation demonstrates the effects of gravitational force between objects (referred to here as bodies) in the system.
+This simulation demonstrates the effects of gravitational force between objects (referred to here as bodies) in the system. This code is written in MATLAB, version R2018a.
 
 To jump right into using this simulation, start with 'StartHere.m'
 
